@@ -10,4 +10,4 @@ In this project, we propose a method to detect depression among patients using a
 The Extended Distress Analysis Interview Corpus (E-DAIC) is an extended version of the DAIC – Wizard-of-Oz corpus (DAIC- WOZ). The E-DAIC dataset contains semi-clinical interviews, designed to diagnose mental health disorders such as anxiety, depression and Post-Traumatic Stress Disorder (PTSD). These interviews were collected as part of a large effort to create a computer agent that interviews people and identifies verbal and nonverbal indicators of mental illnesses.
 
 ## Results
-Check out the project proposal [here](https://link-url-here.org) and the presentation [here](https://link-url-here.org).
+Check out the project proposal [here](https://github.com/rojinbakhti/Depression_Detection_AI/blob/main/final_report.pdf) and the presentation [here](https://github.com/rojinbakhti/Depression_Detection_AI/blob/main/final_presentation.pdf).
